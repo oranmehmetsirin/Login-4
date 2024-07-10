@@ -10,6 +10,8 @@ You can add a FireBase folder with your own information to a simple project and 
 
 The Gif file containing short screenshots of the project is attached below.
 
+![Animation](https://github.com/oranmehmetsirin/Login-4/blob/main/gif.gif?raw=true)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
